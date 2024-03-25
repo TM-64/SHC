@@ -1,2 +1,2 @@
 # SHC
-My Programs in space hardware club
+My Programs I worked on in space hardware club
