@@ -1,2 +1,2 @@
 # Two Month  
-The progeams I wrote for sparrow two month
+The programs I wrote for sparrow two month
